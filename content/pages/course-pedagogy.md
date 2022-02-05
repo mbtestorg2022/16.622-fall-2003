@@ -11,21 +11,99 @@ Overview
 
 16.621 and 16.622 are each one-semester courses. They must be taken in order, and are generally taken consecutively. 16.621 Experimental Projects I is offered every semester. 16.622 is offered in parallel, every semester, by the same teaching staff. Students can begin the two-semester sequence in either the Fall or the Spring, and complete it during the next semester. The sequence is illustrated below.
 
-| 16.621 |
-| --- |
-| **Preliminary**  {{< br >}}Select Partner  {{< br >}}Select Project and Advisor |
-| **Conceive**  {{< br >}}Statement of Project  {{< br >}}Hypothesis, Objective(s), Success Criteria  {{< br >}}Literature Review  {{< br >}}Experimental Definition |
-| **Design  {{< br >}}**Measurement Methods and Systems  {{< br >}}Data Reduction Procedures  {{< br >}}Detailed Experiment Design  {{< br >}}Equipment Specification  {{< br >}}Apparatus/Software Design  {{< br >}}Project Planning |
-|  {{< br >}}{{< br >}} **Report**  {{< br >}}Oral/Written Project Proposal {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+16.621
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Preliminary**  
+Select Partner  
+Select Project and Advisor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Conceive**  
+Statement of Project  
+Hypothesis, Objective(s), Success Criteria  
+Literature Review  
+Experimental Definition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Design  
+**Measurement Methods and Systems  
+Data Reduction Procedures  
+Detailed Experiment Design  
+Equipment Specification  
+Apparatus/Software Design  
+Project Planning
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Report**  
+Oral/Written Project Proposal
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
 
-| 16.622 |
-| --- |
-| **Implement**  {{< br >}}Construct Apparatus/Write Software  {{< br >}}Calibrate  {{< br >}}Take Preliminary Data |
-| **Operate**  {{< br >}}Collect and Reduce Data |
-| **Report  {{< br >}}**Analyze Data  {{< br >}}Oral/Written Conference Presentation 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+16.622
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Implement**  
+Construct Apparatus/Write Software  
+Calibrate  
+Take Preliminary Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Operate**  
+Collect and Reduce Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Report  
+**Analyze Data  
+Oral/Written Conference Presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
